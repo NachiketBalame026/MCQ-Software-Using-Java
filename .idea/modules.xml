@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Quiz Applicatipon.iml" filepath="$PROJECT_DIR$/Quiz Applicatipon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql-connector-j-9.0.0/src/test/test.iml" filepath="$PROJECT_DIR$/../../mysql-connector-j-9.0.0/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql-connector-j-9.0.0/src/main/user-api/user-api.iml" filepath="$PROJECT_DIR$/../../mysql-connector-j-9.0.0/src/main/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql-connector-j-9.0.0/src/main/user-impl/user-impl.iml" filepath="$PROJECT_DIR$/../../mysql-connector-j-9.0.0/src/main/user-impl/user-impl.iml" />
+    </modules>
+  </component>
+</project>
